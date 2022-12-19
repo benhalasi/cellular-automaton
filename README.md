@@ -1,6 +1,6 @@
 # Cellular Automaton Library
 
-![Main Page](/readme/conways.bmp)
+![Main Page](./readme/conways.bmp)
 
 ## How-to
 
